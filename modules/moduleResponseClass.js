@@ -1,4 +1,3 @@
-// const logger = require('./moduleWinstonLogger');
 class RestResponse {
     /**
      * @author natpa
